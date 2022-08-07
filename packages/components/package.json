@@ -1,0 +1,15 @@
+{
+  "name": "@zx/components",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.ts",
+  "module": "index.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "zhengxi",
+  "license": "ISC",
+  "dependencies": {
+    "@zx/hooks": "^1.0.0"
+  }
+}
