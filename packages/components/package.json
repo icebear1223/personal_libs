@@ -10,6 +10,8 @@
   "author": "zhengxi",
   "license": "ISC",
   "dependencies": {
+    "@headlessui/react": "^1.6.6",
+    "@heroicons/react": "^1.0.6",
     "@zx/hooks": "^1.0.1"
   }
 }

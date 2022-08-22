@@ -1,0 +1,28 @@
+import { Meta, IconGallery, IconItem } from "@storybook/addon-docs";
+import WeChatIcon from "./assets/plugin.svg";
+
+<Meta title="Icon" />
+
+# Icon
+
+自定义图标库
+
+## 安装
+
+`pnpm i @yd/icon`
+
+## 使用
+
+```typescript
+import { CodeIcon } from "@yd/icon";
+
+<CodeIcon />;
+```
+
+## 图标
+
+<IconGallery>
+  <IconItem name="代码：<CodeIcon />">
+    <WeChatIcon />
+  </IconItem>
+</IconGallery>
