@@ -9,3 +9,5 @@
 import hook from "@zx/hooks";
 
 console.log(hook);
+
+export { default as Select } from './stories/Select';
