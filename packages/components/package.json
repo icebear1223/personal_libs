@@ -1,6 +1,6 @@
 {
   "name": "@zx/components",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "description": "",
   "main": "index.ts",
@@ -12,6 +12,6 @@
   "dependencies": {
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^1.0.6",
-    "@zx/hooks": "^1.0.1"
+    "@zx/hooks": "^1.0.2"
   }
 }
