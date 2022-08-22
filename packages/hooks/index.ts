@@ -6,6 +6,6 @@
  * @FilePath: /myLibs/packages/hooks/index.js
  * @Description: 描述
  */
-const hook = 1;
+const hook = 2;
 
 export default hook;
